@@ -1,0 +1,10 @@
+D:\C#\FinalPractical\bin\Debug\FinalPractical.exe.config
+D:\C#\FinalPractical\bin\Debug\FinalPractical.exe
+D:\C#\FinalPractical\bin\Debug\FinalPractical.pdb
+D:\C#\FinalPractical\obj\Debug\FinalPractical.csprojAssemblyReference.cache
+D:\C#\FinalPractical\obj\Debug\FinalPractical.Form1.resources
+D:\C#\FinalPractical\obj\Debug\FinalPractical.Properties.Resources.resources
+D:\C#\FinalPractical\obj\Debug\FinalPractical.csproj.GenerateResource.cache
+D:\C#\FinalPractical\obj\Debug\FinalPractical.csproj.CoreCompileInputs.cache
+D:\C#\FinalPractical\obj\Debug\FinalPractical.exe
+D:\C#\FinalPractical\obj\Debug\FinalPractical.pdb
